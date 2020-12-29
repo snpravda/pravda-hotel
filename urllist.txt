@@ -1,0 +1,4 @@
+http://ec2-34-229-92-186.compute-1.amazonaws.com/
+http://ec2-34-229-92-186.compute-1.amazonaws.com/about_us/
+http://ec2-34-229-92-186.compute-1.amazonaws.com/gallery/
+http://ec2-34-229-92-186.compute-1.amazonaws.com/book/

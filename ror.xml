@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://ec2-34-229-92-186.compute-1.amazonaws.com/</title>
+  <link>http://ec2-34-229-92-186.compute-1.amazonaws.com/</link>
+
+<item>
+     <link>http://ec2-34-229-92-186.compute-1.amazonaws.com/</link>
+     <title>Pravda Hotel</title>
+     <description>Pravda Hotel</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ec2-34-229-92-186.compute-1.amazonaws.com/about_us/</link>
+     <title>About Us</title>
+     <description>Галерея готеля Pravda Hotel</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ec2-34-229-92-186.compute-1.amazonaws.com/gallery/</link>
+     <title>Gallery</title>
+     <description>PRAVDA - одна з найбільших готельних корпорацій України, яка налічує понад 42 готелів і
+               курортів, розташованих в 42 містах світу, які об'єднують в собі традиції минулого і сучасність.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ec2-34-229-92-186.compute-1.amazonaws.com/book/</link>
+     <title>Book</title>
+     <description>PRAVDA - одна з найбільших готельних корпорацій України, яка налічує понад 42 готелів і
+              курортів, розташованих в 42 містах світу, які об'єднують в собі традиції минулого і сучасність.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
